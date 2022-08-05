@@ -14,9 +14,6 @@
 <br />
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davideolgiati&include_all_commits=true&count_private=true">
-  <br />
-  <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davideolgiati&count_private=true&date_format=j%2Fn%5B%2FY%5D">
 </div>
 <br />
 <br />
