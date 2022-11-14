@@ -10,10 +10,3 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-
-<br />
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davideolgiati&include_all_commits=true&count_private=true">
-</div>
-<br />
-<br />
